@@ -1,0 +1,51 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "subname": "akash",
+      "address": "satara",
+      "admin": "Add by admin",
+      "name": "kadu",
+      "Date": "10-7-2021",
+      "sale": "saless guy",
+      "mobile": "56456426645650",
+      "details": "info"
+    },
+    {
+      "id": "2",
+      "subname": "akash",
+      "address": "satara",
+      "admin": "Add by admin",
+      "name": "kadu",
+      "Date": "10-7-2021",
+      "sale": "saless guy",
+      "mobile": "56456426645650",
+      "details": "info"
+    },
+    {
+      "address": "twoooo",
+      "name": "twooooo",
+      "mobile": "56456426645650",
+      "id": "3"
+    },
+    {
+      "address": "aann",
+      "name": "aann",
+      "mobile": "56456426645650000",
+      "id": "4"
+    },
+    {
+      "subname": "yyyy",
+      "address": "yyyyy",
+      "mobile": "4568792123",
+      "name": "sdfds",
+      "id": "5"
+    },
+    {
+      "address": "rock",
+      "name": "rohan ",
+      "mobile": "88888888",
+      "id": "6"
+    }
+  ]
+}
